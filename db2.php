@@ -6,10 +6,10 @@
     <body>
 <?php 
 // username and password to connect to the database
-$user = "mayormai_joebob"; 
-$password = "Hello99World"; 
+$user  
+$password  
 // database name that you are connecting to
-$db = "mayormai_covidDash4";
+$db 
 
 // "localhost" implies that this is a connection internal to the server
 // the IP based version is 127.0.0.1 and this can be tweaked to connect
