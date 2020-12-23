@@ -1,7 +1,7 @@
 <?php 
 // username and password to connect to the database
-$user = "mayormai_joebob"; 
-$password = "Hello99World"; 
+$user
+$password 
 // database name that you are connecting to
 $db = "mayormai_covidDash4";
 
